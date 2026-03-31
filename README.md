@@ -1,5 +1,11 @@
 # Multi-Object Apparel Detection & Instance Segmentation
 
+## Team Members
+* **Dhruv Ramesh Joshi** – IMT2023032
+* **Ankith Kini** – IMT2023075
+* **Arnav Oruganty** – IMT2023078
+* **Mithilesh Sai Yechuri** – IMT2023507
+
 This repository contains the training, evaluation, and inference code for a visual recognition system designed to classify, detect, and segment clothing items in images. It is built on a subset of the **DeepFashion2** dataset, focusing on the 5 most frequent categories: *short sleeve top, long sleeve top, trousers, shorts, and skirt*.
 
 ## Project Tasks
